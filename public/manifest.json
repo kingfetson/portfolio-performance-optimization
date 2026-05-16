@@ -1,0 +1,17 @@
+{
+  "name": "portfolio-performance-optimization",
+  "short_name": "Portfolio",
+  "description": "Website Performance Optimization & Frontend Specialist Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10B981",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
